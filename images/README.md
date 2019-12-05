@@ -1,1 +1,0 @@
-# Website's images
