@@ -1885,19 +1885,19 @@ input, select, textarea {
 	}
 
 	form ::-webkit-input-placeholder {
-		color: #555 !important;
+		color: #81918E !important;
 	}
 
 	form :-moz-placeholder {
-		color: #555 !important;
+		color: #81918E !important;
 	}
 
 	form ::-moz-placeholder {
-		color: #555 !important;
+		color: #81918E !important;
 	}
 
 	form :-ms-input-placeholder {
-		color: #555 !important;
+		color: #81918E !important;
 	}
 
 	form ::-moz-focus-inner {
@@ -1912,7 +1912,7 @@ input, select, textarea {
 	}
 
 		table tbody tr:nth-child(2n+2) {
-			background: #f4f4f4;
+			background: #81918E;
 		}
 
 		table td {
